@@ -1,0 +1,4 @@
+[submodule "graph_algo"]
+	path = graph_algo
+	url = https://github.com/hsiangjenli/graph-algorithm.git
+	branch = psma/community_detection
